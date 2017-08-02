@@ -17,7 +17,7 @@ public class FriendsDetails {
     }
 
     public FriendsDetails(String fname, String lname, String email, long phonenumber, double distance) {
-        this.fname = fname;
+        this.fname= fname;
         this.lname = lname;
         this.email = email;
         this.distance = distance;
